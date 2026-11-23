@@ -59,6 +59,6 @@
 <script src="${bootstrapJs}"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
-<h2>TEST 3</h2>
+<h2>TEST 4</h2>
 </body>
 </html>
